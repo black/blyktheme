@@ -1,2 +1,0 @@
-# blyktheme
-Theme for Processing
